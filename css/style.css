@@ -53,14 +53,13 @@ scroll = normal
 }
 
 .section-dark a {
+  text-decoration: none;
   color: #ddd
 }
 
 .section-dark a:hover {
   color: #fff;
 }
-
-
 
 .section-dark2 {
   background-color: #282e34;
