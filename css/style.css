@@ -28,12 +28,14 @@ scroll = normal
 }
 
 .pimg2 {
-  background-image: url('../images/codes.jpg');
+  background-image: url('../images/porfolio_p.jpg');
+  max-width: 100%;
   min-height: 400px;
 }
 
 .pimg3 {
-  background-image: url('../images/boxes.jpg');
+  background-image: url('../images/porfolio_p2.jpg');
+  max-width: 100%;
   min-height: 400px;
 }
 
